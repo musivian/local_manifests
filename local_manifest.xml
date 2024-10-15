@@ -11,10 +11,10 @@
         <project path="device/xiaomi/sunny-kernel" name="yaap/device_xiaomi_sunny-kernel" remote="github" revision="fourteen" />
          
         <!-- Kernel -->
-        <project path="kernel/xiaomi/sunny" name="musivian/kernel_xiaomi_sunny" remote="github" revision="fourteen" />
+        <project path="kernel/xiaomi/sunny" name="yaap/kernel_xiaomi_sunny" remote="github" revision="fourteen" />
         
         <!-- Vendor -->
-        <project path="vendor/xiaomi/sunny" name="yaan/vendor_xiaomi_sunny" remote="github" revision="fourteen" />
+        <project path="vendor/xiaomi/sunny" name="yaap/vendor_xiaomi_sunny" remote="github" revision="fourteen" />
 
         <!-- Packages -->
         <project path="packages/apps/DisplayFeatures" name="yaap/android_packages_apps_DisplayFeatures" remote="github" revision="fourteen" />
