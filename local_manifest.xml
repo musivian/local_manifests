@@ -5,7 +5,7 @@
                 fetch="https://github.com" />
 
         <!-- Device -->
-        <project path="device/xiaomi/sunny" name="yaap/device_xiaomi_sunny" remote="github" revision="fourteen" />
+        <project path="device/xiaomi/sunny" name="alonsoj636MW/device_xiaomi_sunny" remote="github" revision="14" />
 
           <!-- Device Kernel -->
         <project path="device/xiaomi/sunny-kernel" name="yaap/device_xiaomi_sunny-kernel" remote="github" revision="fourteen" />
